@@ -24,5 +24,5 @@ export * from "./renameColumn.js";
 export * from "./renameConstraint.js";
 export * from "./renameTable.js";
 export * from "./reorderColumns.js";
-export * from "./setAutoIncrementMaxId.js";
+export * from "./replaceValue.js";
 export * from "./skip.js";
