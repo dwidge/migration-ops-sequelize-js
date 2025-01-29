@@ -18,6 +18,7 @@ export * from "./ignoreUnknownConstraintError.js";
 export * from "./makeNonNullable.js";
 export * from "./makeNullable.js";
 export * from "./Migration.js";
+export * from "./moveRowsToTable.js";
 export * from "./pipeline.js";
 export * from "./randomizeIntToBigInt.js";
 export * from "./renameColumn.js";
